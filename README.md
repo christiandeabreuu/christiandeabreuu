@@ -22,7 +22,7 @@ Hello World! Me chamo Christian Abreu, sou de Santos/SP. Sou apaixonado por tecn
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=C79600&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/christiandeabreuu?color=C79600&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/christiandeabreuu?tab=followers">
