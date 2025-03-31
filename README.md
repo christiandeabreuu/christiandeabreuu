@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Android`**
 
-Me chamo Christian Abreu, sou de Santos/SP. Sou apaixonado por tecnologia, atuando com desenvolvimento Android Nativo há 3 anos
+Hello World! Me chamo Christian Abreu, sou de Santos/SP. Sou apaixonado por tecnologia, atuando com desenvolvimento Android Nativo há 3 anos
 
 <p align="left">
      <a href="https://www.linkedin.com/in/christian-de-abreu-cardoso-3079a5227" target="_blank">
@@ -126,3 +126,9 @@ Me chamo Christian Abreu, sou de Santos/SP. Sou apaixonado por tecnologia, atuan
   />
 
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
