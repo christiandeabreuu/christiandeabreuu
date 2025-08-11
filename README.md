@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Christian Abreu
+# 👨🏻‍💻 Christian de Abreu
 
 **`Desenvolvedor Android`**
 
